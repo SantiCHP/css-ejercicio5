@@ -147,6 +147,21 @@ footer{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+.etiqueta-new{
+   position: absolute;
+   top: 300px;
+   left: 800px;
+   border: 1px solid white; 
+   background-color: red;
+   color: white;
+   width: 50px;
+   height: 20px;
+   font-size: 13px;
+   text-align: center;    
+   font-weight: bold;
+   font-style: italic;
+   box-shadow: 2px 2px 2px black;
+}
 .fija{
    position: fixed;
    top: 50%;
@@ -184,19 +199,3 @@ footer{
   background: #EA0770;
   border-bottom-right-radius: 30px;
 }           
-.etiqueta-new{
-   position: absolute;
-   top: 300px;
-   left: 800px;
-   border: 1px solid white; 
-   background-color: red;
-   color: white;
-   width: 50px;
-   height: 20px;
-   font-size: 13px;
-   text-align: center;    
-   font-weight: bold;
-   font-style: italic;
-   padding: 2px;
-   box-shadow: 2px 2px 2px black;
-}
